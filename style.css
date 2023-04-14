@@ -1,0 +1,84 @@
+body {
+    background: #E5E5E5;
+}
+
+.sideimag {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    /* text-align: start; */
+}
+
+.img-profile {
+    width: 214px;
+    height: 214px;
+}
+.icon {
+    width: 24px;
+    height: 24px;
+    padding: 10px;
+}
+.icon-email {
+    width: 24px;
+    height: 35px;
+    padding: 10px;
+}
+
+.text-div {
+    padding-left: 86px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Name {
+    color: #004457;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 120%;
+
+    margin-bottom: -10px;
+    letter-spacing: -0.5px;
+
+    
+}
+
+.office {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 120%;
+
+
+    letter-spacing: -0.5px;
+
+    color: #000000;
+}
+
+.phones {
+    display: flex;
+    
+}
+.align {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    
+}
+
+.ptext {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 175%;
+  
+
+    letter-spacing: 0.15px;
+
+    color: #000000;
+}
+
